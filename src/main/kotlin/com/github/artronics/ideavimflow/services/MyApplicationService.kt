@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.artronics.ideavimflow.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.artronics.ideavimflow.MyBundle
 
 class MyApplicationService {
 
